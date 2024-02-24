@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92c155952467ec64b869bb08858c57b2, type: 3}
-  m_Name: App
+  m_Script: {fileID: 11500000, guid: 92b1eeed32a44f8488fb86956d32cfe8, type: 3}
+  m_Name: Test 2
   m_EditorClassIdentifier: 
-  MainMenuScene: MainMenuScene
-  SessionScene: SessionScene
+  _id: 2
+  Value: Test value 2
