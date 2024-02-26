@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92c155952467ec64b869bb08858c57b2, type: 3}
   m_Name: AppSettings
   m_EditorClassIdentifier: 
-  MainMenuScene: MainMenuScene
+  AppScene: AppScene
   SessionScene: SessionScene
   DefinitionsFolder: Definitions
